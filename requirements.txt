@@ -1,7 +1,0 @@
-tensorflow>=2.8
-numpy
-matplotlib
-scikit-learn
-weasyprint
-markdown2
-gradio
