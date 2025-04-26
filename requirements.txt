@@ -1,0 +1,17 @@
+# Core ML Libraries
+tensorflow>=2.8
+numpy>=1.19
+scikit-learn>=1.0
+
+# Visualization
+matplotlib>=3.4
+
+# Web Deployment (Optional if using Gradio)
+gradio>=3.0
+
+# Report Generation (Optional, only for PDF creation from markdown)
+weasyprint>=53.0
+markdown2>=2.4
+
+# Utilities
+pandas>=1.3
